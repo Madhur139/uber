@@ -126,7 +126,7 @@ input[type="checkbox"] {
     margin-left: 10%;
     display: flex;
     padding: 50px;
-
+ 
 }
 
 #indore {
@@ -193,7 +193,7 @@ input[type="checkbox"] {
     align-items: center;
     color: rgb(0, 0, 0);
     border-radius: 10px;
-
+   position: relative;
     input {
 
         background-color: rgb(235, 235, 235);
