@@ -1052,6 +1052,7 @@ footer {
     /* FOOTER */
 
     footer {
+        margin-top: 22px;
         height: auto;
         padding: 20px;
     }
