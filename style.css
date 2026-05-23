@@ -14,7 +14,7 @@ header {
     background-color: black;
     color: white;
     display: flex;
-
+ 
 }
 
 input[type="checkbox"] {
@@ -76,7 +76,7 @@ input[type="checkbox"] {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-
+ 
 
 
     i {
@@ -152,7 +152,7 @@ input[type="checkbox"] {
 #welcome {
     height: 100%;
     width: 50%;
-
+  
 
 
 
@@ -174,6 +174,7 @@ input[type="checkbox"] {
     gap: 5px;
     margin-top: 22px;
     cursor: pointer;
+  
 }
 
 #pickup:hover {
@@ -193,7 +194,7 @@ input[type="checkbox"] {
     align-items: center;
     color: rgb(0, 0, 0);
     border-radius: 10px;
-   position: relative;
+   
     input {
 
         background-color: rgb(235, 235, 235);
@@ -201,7 +202,7 @@ input[type="checkbox"] {
         height: 90%;
         border: none;
         outline: none;
-
+      
 
 
     }
@@ -209,6 +210,7 @@ input[type="checkbox"] {
 
 #circle {
     margin-left: 5px;
+      position: relative;
 }
 
 
@@ -230,14 +232,15 @@ input[type="checkbox"] {
     background-color: black;
     color: white;
     border: none;
+   
 }
 
 
 
 #line {
-    top: 45%;
+    top: 50%;
     position: absolute;
-    height: 8vh;
+    height: 5vh;
     width: 2vw;
     border-left: 2px solid black;
     margin-left: 15px;
