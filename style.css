@@ -194,7 +194,7 @@ input[type="checkbox"] {
     align-items: center;
     color: rgb(0, 0, 0);
     border-radius: 10px;
-   
+     position: relative;
     input {
 
         background-color: rgb(235, 235, 235);
@@ -210,7 +210,7 @@ input[type="checkbox"] {
 
 #circle {
     margin-left: 5px;
-      position: relative;
+     
 }
 
 
@@ -238,7 +238,7 @@ input[type="checkbox"] {
 
 
 #line {
-    top: 50%;
+    top:48%;
     position: absolute;
     height: 5vh;
     width: 2vw;
